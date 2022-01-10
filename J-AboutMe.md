@@ -1,6 +1,7 @@
 # Justus Massmann
-**Ich bin in Ostercappeln geboren und habe 7 Jahre bei einer Bank gearbeitet und suche beruflich eine neue Herausforderung.
-Haben Sie eine Lieblingsserie?**
+**Ich bin in Ostercappeln geboren und habe 7 Jahre bei einer Bank gearbeitet und suche beruflich eine neue Herausforderung.**
+
+Haben Sie eine Lieblingsserie?
 - Narcos
 - Game of Thrones
 
