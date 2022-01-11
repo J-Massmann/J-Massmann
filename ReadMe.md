@@ -1,8 +1,9 @@
 # Justus Massmann
-**Ich bin in Ostercappeln geboren und habe 7 Jahre bei einer Bank gearbeitet und suche beruflich eine neue Herausforderung.**
+**I was born in Osnabrueck, Germany 🇩🇪.**
 
-Meine Lieblingsserien:
-- Narcos
-- Game of Thrones
+I am currently a student at neuefische for a web devolopment bootcamp.
 
-Finde mich auf [Instagram](https://www.instagram.com/justusmass/)
+## You can find me on:
+- [LinkedIn](https://www.linkedin.com/in/justus-johannes-massmann-8a67611a3/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-Massmann)](https://git.io/streak-stats)
